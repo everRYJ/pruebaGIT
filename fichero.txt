@@ -1,1 +1,2 @@
-Cambio de color al Hola Mundo.
+1. Cambio de color al Hola Mundo.
+2. Añadida nueva funcionalidad
